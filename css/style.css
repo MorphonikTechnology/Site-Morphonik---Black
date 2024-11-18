@@ -712,6 +712,10 @@ form input#email {
 
 
 /*parte do rodapé*/
+
+.footer-section h3{
+    display:flex;
+}
 @font-face {  /*Fonte especifica para os textos*/
     font-family: 'Gilroy-Medium';
     src: url('Gilroy-Medium.ttf');
