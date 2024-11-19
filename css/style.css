@@ -730,7 +730,10 @@ form input#email {
     display: inline-block; /* Deixa os parágrafos lado a lado */
     text-align: center;
     vertical-align: top;
-    margin: 0 50px; /* Espaçamento horizontal entre as colunas */
+    margin: 0 90px; /* Espaçamento horizontal entre as colunas */
+    gap: 60px;
+    margin-right: 60px;
+    margin-left: 50px;
     line-height: 1.5; /* Espaçamento entre as linhas */
 }
 
@@ -760,7 +763,7 @@ form input#email {
     width:37%;
     font-size: 17px;
     font-family:'Gilroy-Medium';
-    margin-left:300px;
+    margin-left:60px;
     display: flex;
     margin-top:-45px;
     text-align: justify;
